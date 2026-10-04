@@ -1,0 +1,3 @@
+Here are the schematics and the pcb design for the +-12V power supply pcb.
+
+Connected to a center-tapped 220v to 50v transformer, it converts the ac curent to +- 12V dc thru 3 linear regulators (one for -12v and two for 12v)
